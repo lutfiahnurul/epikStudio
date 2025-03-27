@@ -51,7 +51,7 @@ Selama mengerjakan tugas ini, saya belajar beberapa hal baru, antara lain:
 ## Sumber Rujukan
 Berikut adalah beberapa sumber yang digunakan dalam mengerjakan tugas ini:
 1. **Dokumentasi Java** 
-![picture](image.png)
+![picture](Screenshot 2025-03-27 162529.png)
 2. **Tutorial Java OOP** dari GeeksForGeeks (https://www.geeksforgeeks.org/object-oriented-programming-in-java/)
 3. **Forum Stack Overflow** untuk mencari solusi dari error yang muncul saat debugging.
 4. **Materi kuliah Pemrograman Berorientasi Objek (PBO)** yang diberikan oleh dosen.
